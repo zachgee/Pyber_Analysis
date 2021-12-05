@@ -26,4 +26,4 @@ The results seem somewhat intuitive. We can see that Urban areas generate the mo
 
   - 1) Incentivize more drivers to work in rural settings (But not too many). Sending some drivers into rural areas will bring down fares for customers, and give drivers a chance to make more money per ride. However, be careful not to flood the rural areas.
   - 2) Focus in on the subrban market. It seems that the suburban market has the most obvious upward trend. Let drivers know that the subrban market is growing and there is money to be made providing subruban rides.
-  - 3) Try to de-flood the urban area of some drivers. The urban setting will always need more drivers due to higher demand, but right now the balance between the three settings is way off. 
+  - 3) Try to de-flood the urban area of some drivers. The urban setting will always need more drivers due to higher demand, but right now the balance between the three settings is way off. If left unchecked, drivers will not make any money in urban settings, leading to unhappy workers and more likelihood of drivers quitting. 
