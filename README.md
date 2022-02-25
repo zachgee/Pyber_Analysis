@@ -2,7 +2,7 @@
 
 ## Overview
 
-For this project, we were approached by a frined, V. Isualize, to help him analyze data pertaining to the rideshare app, Pyber. V. Isualize asked us to compare the number of rides, number of drivers, total revenue from fares, the average fare of a ride and the average fare per driver based on the citites population (cites were categozied by "rural", "subruban" and "urban." Secondly, V. Isualize wanted to see the total of the fares from rides by city type. To help V isualize, we utilized Python and Pandas to create dataframes and graphs to help V. Isualize understand the data. 
+For this project, we were approached by a frined, V. Isualize, to help him analyze data pertaining to the rideshare app, Pyber. V. Isualize asked us to compare the number of rides, number of drivers, total revenue from fares, the average fare of a ride and the average fare per driver based on the citites population (cites were categozied by "rural", "subruban" and "urban." Secondly, V. Isualize wanted to see the total of the fares from rides by city type. To help V isualize, we utilized Python, Pandas and Matplotlib to create dataframes and graphs to help V. Isualize understand the data. 
 
 ## Resources
 
